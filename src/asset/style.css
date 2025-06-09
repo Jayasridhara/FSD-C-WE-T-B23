@@ -349,6 +349,7 @@ ul {
   font-weight: 100;
   font-size: 1em;
   width: 60%;
+ 
 }
 
 .box-heading {
@@ -1344,6 +1345,12 @@ ul {
     padding: 0.8em 1.5em; /* Adjust padding */
   }
 
+  .description-signup 
+  {
+     width: 80%; /* Or a fixed pixel width, e.g., 600px */
+    margin-left: auto;
+    margin-right: auto;
+  }
   .hero-content {
     margin-top: 2em; /* Increase top margin for hero section */
   }
